@@ -1,0 +1,1728 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202606 will be lost/reset.
+# Last config file used to build this data file was /home/dwineidv/tmp/awstats/awstats.dwine.id.vn.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2079                
+POS_TIME 2762                
+POS_VISITOR 34235               
+POS_DAY 41121               
+POS_DOMAIN 3603                
+POS_LOGIN 4194                
+POS_ROBOT 4349                
+POS_WORMS 4965                
+POS_EMAILSENDER 5096                
+POS_EMAILRECEIVER 5239                
+POS_SESSION 41289               
+POS_FILESIZE 42308               
+POS_REQUESTTIME 42458               
+POS_SIDER 41497               
+POS_FILETYPES 5374                
+POS_DOWNLOADS 5651                
+POS_OS 6380                
+POS_BROWSER 6756                
+POS_SCREENSIZE 8254                
+POS_UNKNOWNREFERER 8328                
+POS_UNKNOWNREFERERBROWSER 8998                
+POS_ORIGIN 9267                
+POS_SEREFERRALS 9412                
+POS_PAGEREFS 9556                
+POS_SEARCHWORDS 10365               
+POS_KEYWORDS 10517               
+POS_MISC 2425                
+POS_ERRORS 10576               
+POS_CLUSTER 4050                
+POS_SIDER_404 10742               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260629113835 287 49621 9844562451770
+FirstTime 20260626010607
+LastTime 20260629113835
+LastUpdate 20260629113911 287 0 228 59 0
+TotalVisits 167                 
+TotalUnique 136                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 193                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 28 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 27 28 369467 68 84 149503
+1 23 43 5562064 23 113 66999
+2 88 245 3210866 190 367 418438
+3 412 413 2729201 380 562 2178300
+4 57 93 529284 22 164 100261
+5 24 26 453406 155 264 188099
+6 12 12 118194 154 164 153063
+7 21 22 202796 40 399 384390
+8 9 20 4339086 39 196 445252
+9 8 12 120150 1 79 43697
+10 28 48 3292300 7 426 264205
+11 37 37 264513 0 12 6372
+12 74 74 609504 12 75 63520
+13 88 88 592371 22 174 105074
+14 277 277 3649622 25 299 152220
+15 190 190 3457992 30 80 24072
+16 337 356 5443904 61 138 26395
+17 380 568 73576518 9 89 34543
+18 341 341 25441658 68 95 64258
+19 431 437 118818593 1112 1408 1063692
+20 37 70 9558299 32 43 1049776
+21 53 53 605589 359 380 252002
+22 9 9 223719 344 355 251303
+23 0 0 0 2 4 70
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 26
+vn 2016 2324 242208191
+us 554 605 10923427
+in 291 317 2747854
+kg 37 73 388718
+ro 18 38 4844477
+de 16 16 144372
+bd 4 14 122280
+my 4 14 122283
+ru 4 5 81036
+gb 4 7 33598
+il 3 3 146091
+jp 2 5 137054
+be 2 2 23928
+ch 2 2 6390
+ca 2 3 58353
+nz 1 1 11801
+ir 1 1 10066
+sa 1 1 10066
+it 1 1 12068
+kr 0 1 37893
+tr 0 1 37909
+zz 0 1 37893
+br 0 1 37915
+eg 0 3 113717
+cn 0 22 833822
+no 0 1 37894
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+GPTBot/ 106 1868759 20260626031625 0
+bot[\s_+:,\.\;\/\\-] 59 544331 20260626205137 0
+scanner 26 303199 20260627000148 0
+Go\-http\-client/ 8 76312 20260629023743 0
+scrapy 3 22065 20260626065454 0
+facebookexternalhit/ 3 35706 20260627053659 0
+checker 3 36061 20260626204245 0
+curl 2 23264 20260628105109 0
+robot 2 52 20260626031424 2
+Applebot/ 2 23872 20260626185608 0
+unknown 1 26 20260628032416 1
+crawl 1 7355 20260626030014 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 11756 20260628170942 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+Unknown 1 37910 0 0
+woff 12 272000 0 0
+css 43 728480 0 0
+svg 6 11862 0 0
+env 1 37895 0 0
+map 437 190782152 0 0
+txt 74 81611 0 0
+html 1492 15098394 0 0
+png 246 47297772 0 0
+js 130 2405920 0 0
+php 1020 6415100 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 10
+/.well-known/pki-validation/3458985810FAF1815C6BCF318E58F0EE.txt 64 0 5285
+/wp-config.php.txt 2 0 75814
+/.well-known/pki-validation/669909D3690619E5A6BFBD7CF8B2A05A.txt 1 0 64
+/.well-known/pki-validation/FA43B9146464B573B60AE05E5746C97C.txt 1 0 64
+/.well-known/pki-validation/32BBC109A95945841761AFF078632186.txt 1 0 64
+/.well-known/pki-validation/3B7DC359DD136819D4FD92535F32847F.txt 1 0 64
+/.well-known/pki-validation/2DDB5F3A55D6550BBEAC3D2EF80722B1.txt 1 0 64
+/.well-known/pki-validation/A58EFACA4B52CECF420194C420A04808.txt 1 0 64
+/.well-known/pki-validation/3ABCFBEB090B6101C0950464317F4813.txt 1 0 64
+/.well-known/pki-validation/57FCC43CBBBDB969C427A4FA4ED049A4.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+win7 1 0
+ios_iphone 144 106
+ios_ipad 2 2
+androidpie 2 0
+macosx 34 19
+android12 1 1
+linux 121 112
+androidoreo 6 6
+macosx10 2 1
+macosx7 1 1
+win10 2177 2074
+android10 168 164
+win8 1 1
+android13 170 170
+macosx14 5 3
+androidmarshmallow 239 53
+macosx13 1 0
+Unknown 151 60
+macosx15 134 120
+android 101 69
+winlong 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 71
+mozilla 45 26
+safari6.0.2 1 1
+netscape5.0 19 19
+chrome80.0.3987.149 3 3
+safari14.0.3 1 1
+opera29.0.1795.41 1 0
+chrome74.0.3729.169 1 0
+safari1.0.3 1 1
+Unknown 88 16
+chrome120.0.0.0 22 3
+chrome130.0.0.0 104 104
+safari17.4.1 3 3
+chrome145.0.0.0 14 3
+chrome142.0.0.0 6 6
+chrome80.0.3987.162 1 1
+chrome85.0.4183.121 2 2
+chrome76.0.3809.132 2 2
+chrome124.0.0.0 69 69
+firefox119.0.1 1 1
+chrome144.0.0.0 16 16
+safari 61 23
+chrome61.0.3163.79 1 0
+edge18 4 4
+chrome69.0.3947.100 1 0
+chrome133.0.3065.61 1 1
+safari18.5 26 26
+chrome78.0.3904.108 12 12
+chrome75.0.3770.142 1 0
+chrome148.0.0.0 392 188
+safari14.0 1 1
+chrome145.0.7632.6 2 2
+chrome134.0.3124.23 1 1
+chrome120.0 1 1
+safari13.0 1 1
+chrome138.0.0.0 3 3
+firefox152.0 478 444
+firefox39.0 1 1
+chrome138.0.7204.23 10 10
+chrome58.0.3029.110 1 1
+chrome149.0.7827.91 13 13
+firefox120.0 4 4
+firefox33.0 1 1
+chrome137.0.0.0 6 6
+firefox131.0 7 1
+chrome147.0.0.0 44 27
+firefox132.0 64 64
+chrome67.0.3396.87 1 1
+safari26.0 18 8
+chrome100.0.4896.57 1 1
+chrome113.0.0.0 1 1
+chrome119.0.0.0 2 2
+chrome149.0.7827.196 4 4
+chrome100.0.4896.60 1 0
+chrome106.0.0.0 1 1
+chrome76.0.3809.111 2 0
+chrome120 1 1
+safari17.0 54 54
+chrome136.0.0.0 50 6
+chrome146.0.0.0 1 1
+chrome149.0.0.0 1590 1584
+chrome45.0.2454.93 1 1
+chrome133.0.0.0 74 74
+firefox149.0 30 20
+chrome143.0.0.0 1 1
+chrome121.0.0.0 2 2
+chrome131.0.0.0 83 83
+chrome76.0.3809.71 1 1
+chrome62.0.3191.0 1 0
+chrome63.0.3239.111 2 2
+firefox109.0 2 2
+safari26.4 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+okhttp/5.3.0 20260628055628
+COMODO_DCV 20260626025103
+WhatsApp/2 20260627053646
+Mozilla/5.0_(compatible;_pre-filter) 20260626025326
+Sectigo_DCV 20260626025113
+Mozilla/5.0_(l9scan/2.0.6323e2733323e2535323e2330313;__https://leakix.net) 20260626025252
+Mozilla/5.0_(compatible;_pathscan/1.0) 20260628060652
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260627111440
+Mozilla/5.0_Firefox/33.0 20260627105853
+Mozilla/5.0_(compatible;_Dataprovider.com) 20260628015335
+python-requests/2.32.5 20260626151323
+Python/3.10_aiohttp/3.13.0 20260628174033
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Sectigo_DCV 20260626025113
+okhttp/5.3.0 20260628055628
+python-requests/2.32.5 20260626151323
+COMODO_DCV 20260626025103
+WhatsApp/2 20260627053646
+Python/3.10_aiohttp/3.13.0 20260628174033
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 904 1083
+From1 19 19
+From2 0 0
+From3 40 78
+From4 2000 2282
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 11
+https://web11.123host.vn:2083 8 8
+https://webmail.dwine.id.vn/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css 6 6
+https://cpanel.dwine.id.vn/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css 6 6
+https://jp.zaloapp.com 5 5
+http://mail.dwine.id.vn 5 5
+http://mail.dwine.id.vn 4 4
+https://webmail.dwine.id.vn 2 8
+https://client.123host.vn 2 2
+https://cpanel.dwine.id.vn 2 8
+https://cpanel.dwine.id.vn/cPanel_magic_revision_1744116777/unprotected/cpanel/style_v2_optimized.css 0 14
+https://webmail.dwine.id.vn/cPanel_magic_revision_1744116777/unprotected/cpanel/style_v2_optimized.css 0 12
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+500 80 13342
+404 4893 3314670
+301 11 7777
+403 129 90171
+206 1 961657
+401 12 573
+302 274 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1087
+/plugins/payments/stripe.json 2 -
+/shared/.env 4 -
+/administrator/phpinfo.php 2 -
+/phpinfo.php.old 2 -
+/telescope/requests 4 -
+/minio/health/live 1 -
+/example.env.txt 2 -
+/app.yml 2 -
+/aws-config.json 3 -
+/.env.yaml 2 -
+/redis/.env 2 -
+/_.env.prod 2 -
+/.env.save.1 5 -
+/assets/js/message.js 5 -
+/phpinfo.php 4 -
+/public_html/images/gekkeikan.png 125 http://dwine.id.vn/
+/.env.dev 7 -
+/aws/config/aws_auth.php 3 -
+/store/.env 2 -
+/.gitlab 2 -
+/v2/_catalog 4 -
+/adm/api/info.php 3 -
+/.env.dev.example 2 -
+/brevo/.env 2 -
+/public_html/images/brands/absolut.png 86 http://dwine.id.vn/
+/api/.env.staging 3 -
+/stripe/config.json 2 -
+/server/constant.js 3 -
+/www/phpinfo.php 2 -
+/temp/.env 2 -
+/.env.int 2 -
+/Backend/.env 2 -
+/payment/stripe.json 2 -
+/application/.env 7 -
+/api/password 3 -
+/ADMIN/.env 2 -
+/sendgrid.env 2 -
+/_.env.dev 2 -
+/media/* 2 -
+/api/fetch 3 https://dwine.id.vn/
+/old_phpinfo.php 2 -
+/backend/constant.js 3 -
+/release/.env 2 -
+/admin-app/.env 2 -
+/mysql/.env 2 -
+/back-api/.env 2 -
+/s3/buckets 2 -
+/insta-compose.yml 2 -
+/favicon.png 13 -
+/waku/* 2 -
+/assets/.env 2 -
+/v1/kv/ 1 -
+/env.js 5 -
+/config/module.config.php 2 -
+/.stylelintrc 3 -
+/.env-dist 2 -
+/.well-known/* 2 -
+/css/support_parent.css 6 -
+/stripe.config.js 3 -
+/market/.env 2 -
+/server/.env 4 -
+/terraform/terraform.tfvars.json 2 -
+/admin/constant.js 3 -
+/manage/* 2 -
+/root/.netrc 2 -
+/docs 2 -
+/node/api/.env 2 -
+/form 2 -
+/register 2 -
+/config.yml 2 -
+/appsettings.Test.json 2 -
+/express/.env 2 -
+/.gitlab-ci 2 -
+/server/api/.env 2 -
+/api/dev/.env 2 -
+/mailjet/.env 2 -
+/internal/.env 2 -
+/web/.env 4 -
+/home/*/.git-credentials 2 -
+/sitemaps/.env 2 -
+/app/nuxt.config.js 3 -
+/environment.py 2 -
+/app/dev/info.php 3 -
+/smtp/.env 2 -
+/cache/.env 2 -
+/console/* 2 -
+/app/.env.production 2 -
+/config/constant.js 3 -
+/aws/s3/env.env 2 -
+/wp-json/wp/v2/users 2 -
+/env.ts 2 -
+/htdocs/.env 2 -
+/_vercel/insights 2 -
+/env_creation.sh 2 -
+/aws-credentials.json 3 -
+/api/constants.js 3 -
+/billing/* 2 -
+/api/v1/workflows 2 -
+/.env.testing 4 -
+/attacker/docker-compose.yml 2 -
+/next/.env 2 -
+/var/task/amplify/backend/function/*/src/index.js 3 -
+/var/task/next.config.mjs 2 -
+/wp-includes/wlwmanifest.xml 5 -
+/bootstrap/.env 2 -
+/.gitmodules 2 -
+/[slug] 2 -
+/angular/.env 2 -
+/.well-known/security.txt 8 -
+/user/* 2 -
+/elasticsearch_cluster_yml 2 -
+/config/aws.json 2 -
+/.env.production.enc 1 -
+/public_html/images/brands/johnniewalker.png 88 http://dwine.id.vn/
+/project/.env 4 -
+/wordpress/wp-includes/wlwmanifest.xml 5 -
+/config/.env 4 -
+/conf.yaml 2 -
+/client/.env 4 -
+/backend/config/common.js 3 -
+/.terraform/terraform.tfstate 1 -
+/_layouts/* 2 -
+/src/.env 4 -
+/appsettings.Development.json 2 -
+/api/v1/executions 2 -
+/magento/.env 2 -
+/nuxt/.env 2 -
+/app/serverless.yaml 2 -
+/.vercel/functions/* 2 -
+/app/.env 7 -
+/en/* 2 -
+/.circleci/config.yml 3 -
+/api/settings.json 3 -
+/package-updates/install.cgi 2 -
+/v2/.env 4 -
+/k8s/.env 2 -
+/.debug 3 -
+/api/logout 3 -
+/rest/oauth2-credential/auth 2 -
+/api/graphql 4 -
+/.env.2 3 -
+/s3/bucket 2 -
+/s3/.aws/config 2 -
+/wp-login.php 2 -
+/api/user 2 -
+/storage/.env 2 -
+/env.template 2 -
+/api/common.js 3 -
+/site/wp-includes/wlwmanifest.xml 5 -
+/php.php 4 -
+/includes/phpinfo.php 2 -
+/drupal/.env 2 -
+/s3/credentials 2 -
+/etc/apache2/apache2.conf 2 -
+/appsettings.Staging.json 2 -
+/build/.env 2 -
+/parseable-env-secret 2 -
+/phpversion.php 2 -
+/API/config/common.js 3 -
+/wordpress/ 1 -
+/back-end/app/.env 2 -
+/oauth/* 2 -
+/qa/.env 4 -
+/.docker/.env 5 -
+/wp/wp-includes/wlwmanifest.xml 5 -
+/developer/.env 2 -
+/graphql 6 -
+/root/.aws/config 2 -
+/.env.project 2 -
+/admin/config.php 3 -
+/var/task/docker-compose.yaml 2 -
+/administration/api/info.php 3 -
+/IAM.md 2 -
+/.terraform.lock.hcl 2 -
+/robots.txt 36 -
+/orders/* 2 -
+/crm/.env 4 -
+/lib/.env 2 -
+/server-status.php 2 -
+/vercel.json 2 -
+/dashboard/* 2 -
+/user/.env 2 -
+/phpinfo.php~ 2 -
+/Be/.env 2 -
+/.github/CODEOWNERS 2 -
+/stg/.env 2 -
+/staging/config/constants.js 3 -
+/api/v3/.env 2 -
+/app/Secrets/AWSKeys.php 3 -
+/aws_s3_bucket 2 -
+/public/stripe.js 3 -
+/old/.env 4 -
+/aws_credentials.ini 2 -
+/environment.ts 2 -
+/s3/bucket.env 2 -
+/.prettierrc.json 3 -
+/control-panel/.env 2 -
+/qa/phpinfo.php 2 -
+/admin/config 2 -
+/config/config.js 3 -
+/api/aws/credentials.json 3 -
+/package-updates/* 2 -
+/saas/.env 2 -
+/[workspace]/* 2 -
+/postmark/.env 2 -
+/.eslintrc.json 3 -
+/src/FileUpload.js 3 -
+/package-updates/yum.cgi 2 -
+/mailgun/.env 2 -
+/.stylelintrc.json 3 -
+/config/env.json 2 -
+/stripe/.env 2 -
+/myproject/settings.py 2 -
+/.aws/credentials 7 -
+/admin/logs/error.log 3 -
+/xrwbdmsop0fb13rhhrq3lf5ds 1 -
+/js/config.js 7 -
+/config/environment.json 2 -
+/apps/config/aws_parameters.yml 3 -
+/.env.example-local 2 -
+/production/.env 4 -
+/api/env 3 -
+/prestashop/.env 2 -
+/*/[id] 2 -
+/env.rb 2 -
+/api/info.php 5 -
+/assets/js/auth.js 3 -
+/.github/ISSUE_TEMPLATE 2 -
+/2019/wp-includes/wlwmanifest.xml 5 -
+/.env1 2 -
+/controller.js 3 -
+/aws/credentials.bak 2 -
+/current/.env 4 -
+/.gitlab/issue_templates 2 -
+/api/session 3 -
+/_next/data/*/*.json 2 -
+/aws.yaml 2 -
+/app/* 2 -
+/app/Config/aws_sdk.php 3 -
+/.env.dist 7 -
+/debug.php 2 -
+/backend/env.js 3 -
+/API/config.js 3 -
+/preview/phpinfo.php 2 -
+/production.env.example 2 -
+/database/.env 2 -
+/.env.development 9 -
+/cloud/.env 2 -
+/_api/* 2 -
+/.env.test 7 -
+/queue/.env 2 -
+/config/config.json 2 -
+/service/.env 4 -
+/admin/constants.js 3 -
+/.env.txt 5 -
+/pip.conf 1 -
+/api/constant.js 3 -
+/config/aws.ini 2 -
+/g87swdba0pn4gwx8r0so97dl.html 1 -
+/apis/.env 2 -
+/error/ 2 -
+/test/.env 4 -
+/website/wp-includes/wlwmanifest.xml 5 -
+/_next/static/* 2 -
+/env.sh 2 -
+/environ_names.txt 2 -
+/API/config/constants.js 3 -
+/qdyniifsnl711pcsw9cdgxfng.php 1 -
+/info.php.bak 2 -
+/cmd_sco 4 -
+/.github/PULL_REQUEST_TEMPLATE.md 2 -
+/actions/* 2 -
+/credentials.json 2 -
+/configs/application.ini 2 -
+/worker/.env 2 -
+/wp-config.php.old 2 -
+/_react/data/* 2 -
+/buildkite/.env 2 -
+/package-updates/refresh.cgi 2 -
+/.gitlab/merge_request_templates 2 -
+/env.md 2 -
+/rest/executions 2 -
+/aws-codecommit/ 2 -
+/old/aws_config 2 -
+/.env.sh 2 -
+/server/config.js 3 -
+/cakephp/.env 2 -
+/2phpmyadmin/index.php 3 -
+/API.md 2 -
+/tools/.env 2 -
+/server/config/common.js 3 -
+/.env-dev 2 -
+/aws_settings/aws_keys.php 1 -
+/root/.boto 2 -
+/var/www/html/.env 4 -
+/.stripe/ 2 -
+/api/v1/.env 2 -
+/infrastructure/.env 2 -
+/wp-admin/phpinfo.php 2 -
+/api/authenticate 3 -
+/pages/* 2 -
+/local_env.yml 2 -
+/llms.txt 2 -
+/src/env.js 3 -
+/rabbitmq/.env 2 -
+/projects/* 2 -
+/admin_phpinfo.php 2 -
+/lms/.env 2 -
+/payment_gateways/stripe.yaml 2 -
+/config/credentials.yml.enc 1 -
+/.env.uat 2 -
+/set-aws-env.sh 2 -
+/api/server.js 3 -
+/app/.terraform/terraform.tfstate 2 -
+/.envrc.sample 2 -
+/admin/config/database.js 3 -
+/api/login 5 -
+/var/www/.env 4 -
+/mail/.env 2 -
+/_waku/* 2 -
+/.github/workflows 2 -
+/server/config/constants.js 3 -
+/gateway/.env 2 -
+/backend/config.js 3 -
+/vu57ey88ovif883br6gxmpv8.html 1 -
+/public_html/images/chivas12.png 115 http://dwine.id.vn/
+/.env.production.example 2 -
+/8ug74azbbgyf1pnlairazw8mp 1 -
+/set_env.sh 2 -
+/.env_copy 2 -
+/.vercel/output/config.json 1 -
+/test.php 4 -
+/aws_s3_config.json 2 -
+/docker/.env 2 -
+/resources/.env 2 -
+/elasticsearch/.env 2 -
+/[id] 2 -
+/backend/node/common.js 3 -
+/s3.key 2 -
+/old/phpinfo.php 2 -
+/admin/autoload_classmap.php 3 -
+/aws/ses/smtp.env 2 -
+/.env.prd 2 -
+/root/.s3cfg 2 -
+/package-updates/index.cgi 2 -
+/config.prod.ini 2 -
+/core/phpinfo.php 2 -
+/web/env.js 3 -
+/cron/.env 4 -
+/readme.md 2 -
+/api/config/aws.php 3 -
+/htdocs/phpinfo.php 2 -
+/form/* 2 -
+/content/* 2 -
+/environment.ci.ts 2 -
+/webhook/* 2 -
+/github/.env 2 -
+/.env~ 7 -
+/api/gql 4 -
+/test 2 -
+/app/docker-compose.yml 2 -
+/credentials.csv 2 -
+/rest/users 2 -
+/serverless.yaml 2 -
+/back/xampp/phpinfo.php 1 -
+/.terraform.tfstate 2 -
+/.env.stage 2 -
+/.env-example 4 -
+/.git-credentials 2 -
+/.env-backup 2 -
+/site/phpinfo.php 2 -
+/root/.git-credentials 2 -
+/.env.heroku 2 -
+/public_html/phpinfo.php 2 -
+/aws/env/aws_env_config.json 2 -
+/.env.lc 2 -
+/.env.php 2 -
+/admin/settings.json 3 -
+/terraform/.env 2 -
+/app/vercel.json 2 -
+/rest/credential-translation 2 -
+/wp-env.php 2 -
+/.env%20copy%202 2 -
+/.gitlab-ci.yml 5 -
+/microservice/.env 2 -
+/admins/server/info.php 3 -
+/rest/workflows 2 -
+/releases/.env 2 -
+/client/stripe.config.js 3 -
+/stripe-keys.json 2 -
+/admin.html 2 -
+/cart 2 -
+/.env.production 12 -
+/.netlify/functions/* 2 -
+/server/backend/.env 2 -
+/web/config/constants.js 3 -
+/env.bash 2 -
+/webmin/package-updates/update.cgi 2 -
+/rest/node-types 2 -
+/pi.php 2 -
+/back/php.php 2 -
+/staging/.env 4 -
+/_layouts/15/* 2 -
+/yii/.env 2 -
+/Api/.env 2 -
+/package-updates/ 2 -
+/.env_bak 3 -
+/settings.yaml 2 -
+/api/node/constant.js 3 -
+/editor/* 2 -
+/env 4 -
+/.env.config 2 -
+/shop/wp-includes/wlwmanifest.xml 5 -
+/marketing/.env 2 -
+/app-env.yaml 2 -
+/.gitattributes 2 -
+/wp/.env 2 -
+/env-list.txt 2 -
+/node/backend/.env 2 -
+/backups/.env 2 -
+/.env 21 -
+/docker/registry/config.yml 2 -
+/actuator/env 7 -
+/.amplifyrc 2 -
+/apis/server/phpinfo.php 3 -
+/.env.5 3 -
+/api/node/config.js 3 -
+/app/.env.local 2 -
+/app/amplify.yml 2 -
+/index.js 3 -
+/workspaces/* 2 -
+/aws.env.json 2 -
+/.DS_Store 4 -
+/.env.local.example 2 -
+/package-updates/download.cgi 2 -
+/v1/.env 4 -
+/src/config/constants.js 3 -
+/authenticate 3 -
+/.env.remote 2 -
+/notify/.env 2 -
+/template.yaml 2 -
+/app/infophp.php 3 -
+/.docker/laravel/app/.env 2 -
+/backup/.env 4 -
+/admin/.env 7 -
+/wp-json/gravitysmtp/v1/tests/mock-data 2 -
+/beta/.env 4 -
+/rest/tags 2 -
+/wp1/wp-includes/wlwmanifest.xml 5 -
+/wp-config.php.new 2 -
+/.aws/config 5 -
+/.env.live 4 -
+/.vercel/project.json 1 -
+/contact 2 -
+/.env.local 15 -
+/aws-ses.json 2 -
+/1o3nf30jvp0yj1n7me20dcpfx2.html 1 -
+/assets/js/aws-config.js 3 -
+/settings.json 2 -
+/wp-config.php.bak 2 -
+/deploy.sh 2 -
+/www/.env 2 -
+/%2f.aws%2fcredentials 2 -
+/.env-production 2 -
+/react/.env 2 -
+/.env.qa 2 -
+/bin/.env 2 -
+/.well-known/acme-challenge/* 2 -
+/public_html/index.php 24 https://dwine.id.vn/logout.php
+/bulk/.env 2 -
+/.netrc 1 -
+/config/config.inc.php 2 -
+/app/next.config.js 3 -
+/config/utils.js 3 -
+/blog/wp-includes/wlwmanifest.xml 5 -
+/app.js 3 -
+/ads.txt 2 -
+/public-api/.env 2 -
+/var/task/serverless.yml 2 -
+/config/stripe.php 2 -
+/env_setup 2 -
+/local/.env 4 -
+/[tenant]/* 2 -
+/api_keys/aws_keys.json 3 -
+/services/.env 2 -
+/servers/link.cgi 2 -
+/frontend/.env 4 -
+/node-api/.env 2 -
+/.prettierrc 3 -
+/env_variables.py 2 -
+/prod/config.js 3 -
+/.env.development.example 2 -
+/.cache 2 -
+/s3.yml 2 -
+/v3/.env 4 -
+/_next/data/*/index.json 2 -
+/public_html/images/chardonnay.png 123 http://dwine.id.vn/
+/src/app.js 3 -
+/threads/* 2 -
+/.env.example 10 -
+/shop/[category]/* 2 -
+/laravel/.env 4 -
+/.env.backup 7 -
+/web/config/common.js 3 -
+/admin/sysadmin/index.php 3 -
+/api/serverless/* 2 -
+/sitemap.xml 3 -
+/.npmrc 3 -
+/config/test.json 2 -
+/app/config.yml 3 -
+/asdf.php 3 -
+/zend/.env 2 -
+/backend/constants.js 3 -
+/webhook 2 -
+/cpanel/phpinfo.php 2 -
+/nodeapi/.env 2 -
+/new/.env 2 -
+/assets/js/qr_modal.js 6 -
+/sendgrid/.env 2 -
+/terraform.tfstate 2 -
+/services/environments.ini 2 -
+/public_html/images/bordeaux.png 39 -
+/env_scan.py 2 -
+/web/app.js 3 -
+/.env.enc 1 -
+/phpinfo.php.bak 2 -
+/*/[slug] 2 -
+/codeigniter/.env 2 -
+/app/next.config.mjs 2 -
+/src/config/common.js 3 -
+/package-updates/apt.cgi 2 -
+/__debug 2 -
+/config/parameters.yml 2 -
+/public_html/assets/css/style.css 132 http://dwine.id.vn/
+/.env_1 3 -
+/src/config/config.json 2 -
+/APP/.env 2 -
+/*update.cgi* 2 -
+/terraform.tfstate.backup 2 -
+/.netlify/state.json 1 -
+/api/users/* 2 -
+/app/config/.env 3 -
+/dnscfg.cgi 2 -
+/env.json 2 -
+/api/reset 3 -
+/docker-cloud.yml 2 -
+/gcp/.env 2 -
+/API/.env 2 -
+/admin/config/constants.js 3 -
+/default-env.json 2 -
+/.env.email 2 -
+/trpc/* 2 -
+/.terraform/credentials.tfrc.json 2 -
+/app/frontend/.env 3 -
+/rest/variables 2 -
+/graphql/api 4 -
+/var/task/docker-compose.yml 2 -
+/images/prod_6a40eeea6091b.png 8 http://dwine.id.vn/index.php
+/smtp/phpinfo.php 2 -
+/aws.env 5 -
+/app/config/development.ini 2 -
+/docker-compose.yml 2 -
+/rest/login 2 -
+/public_html/assets/js/live_search.js 64 http://dwine.id.vn/
+/api/.env.local 3 -
+/config.env 2 -
+/.env.backup1 2 -
+/healthz 2 -
+/api/staging/.env 2 -
+/transactional/.env 2 -
+/public_html/images/brands/chivas12logo.png 86 http://dwine.id.vn/
+/environment.prod.ts 2 -
+/home/*/.aws/credentials 2 -
+/home/*/.netrc 2 -
+/js/twint_ch.js 8 -
+/_next/data/*/about.json 2 -
+/config/database.yml 1 -
+/notifications/.env 2 -
+/constants.ini 2 -
+/prod/.env 4 -
+/backend/node/constant.js 3 -
+/settings.py 2 -
+/[...catchAll] 2 -
+/form-test/* 2 -
+/administrator/.env 4 -
+/api/config/constants.js 3 -
+/config/nexmo.php 2 -
+/.env2 2 -
+/.env.sample 7 -
+/NOTES.md 2 -
+/elasticsearch.yml 2 -
+/.editorconfig 3 -
+/postgres/.env 2 -
+/api/token 3 -
+/stripe-credentials.json 2 -
+/user-panel/.env 2 -
+/rqv2k4igh8za16mdu8qruj57x.php 1 -
+/.docker/secrets.json 2 -
+/audio/.env 3 -
+/rest/workflows/run 2 -
+/.env.ollama 2 -
+/auth/* 2 -
+/integrations/* 2 -
+/constants.yml 2 -
+/core/app/.env 2 -
+/travis/.env 2 -
+/products 2 -
+/payment/* 2 -
+/env.jsx 2 -
+/ses/.env 2 -
+/_environment 2 -
+/cms/* 2 -
+/live/.env 2 -
+/rest/* 2 -
+/stage/.env 4 -
+/api/config.js 3 -
+/psnlink/.env 2 -
+/trace.axd 4 -
+/app/config.yaml 3 -
+/config.rb 2 -
+/static/style/protect/index.js 7 -
+/.env.prod 7 -
+/panel/.env 2 -
+/p.php 2 -
+/___proxy_subdomain_cpanel 4 -
+/adm/info.php 3 -
+/azure-pipelines.yml 1 -
+/.github/workflows/ci.yml 5 -
+/wordpress/.env 2 -
+/awstats/.env 2 -
+/.env.testing.example 2 -
+//cdn.js 8 -
+/tmp/.env 2 -
+/.env.backup2 2 -
+/.env.heroku.example 2 -
+/config/secrets.yml 2 -
+/config/aws.php 2 -
+/app/config/aws.php 3 -
+/appsettings.Production.json 2 -
+/phpinfo 4 -
+/.env.ci 5 -
+/logs/.env 2 -
+/admin/* 2 -
+/package-updates/perform.cgi 2 -
+/.env%20copy 2 -
+/settings.js 3 -
+/.rvmrc 3 -
+/docker/overlay/config.json 2 -
+/js/env.js 3 -
+/admin/debug.php 3 -
+/wp-content/mysql.sql 2 -
+/admin/.env.staging 3 -
+/aws/aws_settings.json 3 -
+/circle.yml 2 -
+/.github/workflows/main.yml 2 -
+/circleci/.env 2 -
+/erp/.env 4 -
+/api/env.js 3 -
+/software/*.cgi 2 -
+/symfony/_profiler/phpinfo 2 -
+/api/data/* 2 -
+/dev/env.js 3 -
+/.env.docker.dev 2 -
+/scripts/.env 2 -
+/.github 2 -
+/ansible/.env 2 -
+/mandrill/.env 2 -
+/teams/* 2 -
+/api/webhook/* 2 -
+/server-info.php 2 -
+/api-backend/.env 2 -
+/.c9/metadata/environment/.env 3 -
+/settings/* 2 -
+/public/phpinfo.php 4 -
+/api/config/common.js 3 -
+/set_env_vars.sh 2 -
+/.env.build 2 -
+/.env_dev 2 -
+/articles/* 2 -
+/chat/* 2 -
+/api/settings.py 2 -
+/mailer/.env 2 -
+/shop/.env 4 -
+/.dockerignore 2 -
+/etc/boto.cfg 2 -
+/var/task/amplify.yml 2 -
+/API/common.js 3 -
+/.env_hlg 2 -
+/config.php 2 -
+/config 3 -
+/js/lkk_ch.js 3 -
+/api/v1/* 2 -
+/root/.gitconfig 2 -
+/rest/license 2 -
+/appsettings.QA.json 2 -
+/s/6323e2733323e2535323e2330313/_/ 4 -
+/.envrc 5 -
+/enviar_email.py 2 -
+/* 2 -
+/info.php 8 -
+/rest/oauth1-credential/auth 2 -
+/app/config/parameters.yml 2 -
+/images/prod_6a40ed65da273.png 6 http://dwine.id.vn/index.php
+/humans.txt 2 -
+/test/wp-includes/wlwmanifest.xml 5 -
+/env.production 2 -
+/uat/phpinfo.php 2 -
+/vite/.env 2 -
+/cms/.env 4 -
+/config/common.js 3 -
+/settings.ini 2 -
+/vue/.env 2 -
+/servers/save.cgi 2 -
+/app/config/cloud/aws.php 3 -
+/app/terraform.tfstate 2 -
+/debug/default/view 4 -
+/signup 2 -
+/phpinfo.php.save 2 -
+/bot-connect.js 8 -
+/package-updates/update.cgi 2 -
+/test/phpinfo.php 2 -
+/mongodb/.env 2 -
+/__nextjs_action 2 -
+/config/server.js 3 -
+/appsettings.Local.json 2 -
+/joomla/.env 2 -
+/constants.json 2 -
+/public_html/images/vodka-hanoi.png 118 http://dwine.id.vn/
+/config/application.yml 2 -
+/2018/wp-includes/wlwmanifest.xml 5 -
+/.env_hidden 3 -
+/API/constants.js 3 -
+/public_html/images/brands/moet.png 87 http://dwine.id.vn/
+/api/phpinfo.php 2 -
+/.github/dependabot.yml 2 -
+/app/netlify.toml 2 -
+/api/forgot 3 -
+/info 2 -
+/.wp-config.php.swp 2 -
+/config/env.php 2 -
+/images/prod_6a40ede72ebb8.png 2 http://dwine.id.vn/index.php
+/private/.env 2 -
+/dev/phpinfo.php 2 -
+/config/constants.js 3 -
+/messages/* 2 -
+/app/Providers/AwsServiceProvider.php 3 -
+/azure/.env 2 -
+/gitlab/.env 2 -
+/stripe.env 2 -
+/admin/phpinfo.php 7 -
+/assets/js/app.js 3 -
+/ojwsr7cqwgs41au70u1dsqp7p.php 1 -
+/admin-panel/.env 2 -
+/en/.env 2 -
+/app/config/parameters.yml.dist 2 -
+/back-end/.env 2 -
+/aws/buckets 2 -
+/env.yaml 2 -
+/credentials.js 3 -
+/v2/* 2 -
+/develop/.env 2 -
+/demo/.env 2 -
+/node/.env 4 -
+/public_html/images/absolut.png 115 http://dwine.id.vn/
+/backend/config.php 1 -
+/.env.staging 2 -
+/symfony/.env 2 -
+/preview/.env 2 -
+/env-variables.md 2 -
+/metrics 2 -
+/.envec2 2 -
+/server 5 -
+/serverless.yml 2 -
+/dasdasd 2 -
+/console/ 6 -
+/BE/.env 2 -
+/publish/* 2 -
+/portal/.env 4 -
+/.env.save 7 -
+/media/wp-includes/wlwmanifest.xml 5 -
+/admin/info.php 3 -
+/amplify/team-provider-info.json 2 -
+/srv/.env 2 -
+/website/.env 2 -
+/backend/aws_credentials.json 1 -
+/var/task/serverless.json 2 -
+/nodeweb/.env 2 -
+/admins/crm/info.php 3 -
+/server/constants.js 3 -
+/svelte/.env 2 -
+/.env-sample 2 -
+/newsletter/.env 2 -
+/.babelrc 3 -
+/var/task/netlify.toml 2 -
+/backend-api/.env 2 -
+/config/config.php 2 -
+/BACK/.env 2 -
+/terraform.tfvars 2 -
+/.github/funding.yml 2 -
+/config/stripe.yaml 2 -
+/_profiler/phpinfo.php 2 -
+/kubernetes/.env 2 -
+/rest/.env 2 -
+/s3.secret 2 -
+/mailing/.env 2 -
+/api/logs/error.log 3 -
+/env.example 2 -
+/backend/index.js 3 -
+/web/constants.js 3 -
+/[locale]/* 2 -
+/.env.example2 2 -
+/.env.3 3 -
+/app/aws/credentials.php 3 -
+/dev/.env 4 -
+/credentials.ini 2 -
+/.pip/pip.conf 1 -
+/env.py 2 -
+/backend/.env 9 -
+/__nextjs_action/* 2 -
+/var/task/nuxt.config.ts 2 -
+/software/update.cgi 2 -
+/api/signup 3 -
+/.env.docker 4 -
+/api/.env 9 -
+/public_html/images/brands/jacobscreek.png 87 http://dwine.id.vn/
+/staging/config/common.js 3 -
+/campaign/.env 2 -
+/BackEnd/config.js 3 -
+/README.md 2 -
+/aws_data/aws_keys.yml 2 -
+/.tool-versions 3 -
+/@vite/env 4 -
+/backend/node/constants.js 3 -
+/public_html/images/brands/hennessy.png 88 http://dwine.id.vn/
+/oauth/authorize 2 -
+/..%5c..%5c..%5c..%5c..%5c..%5cvar/log/apache2/access.log 2 -
+/aws.properties 2 -
+/s3/backup 2 -
+/api/credentials 2 -
+/root/.aws/credentials 2 -
+/fr/* 2 -
+/sam-template.yaml 2 -
+/config/app.js 3 -
+/aws/bucket 2 -
+/public/.env 4 -
+/rest/credentials-for-node 2 -
+/.env.4 3 -
+/stripe.json 2 -
+/.docker/config.json 3 -
+/.env.old 7 -
+/env_template 2 -
+/public_html/images/jackdaniels.png 114 http://dwine.id.vn/
+/src/constants.js 3 -
+/uat/.env 2 -
+/src/config/environment.json 2 -
+/[[...optional]] 2 -
+/Docker.md 2 -
+/uploads/.env 2 -
+/sparkpost/.env 2 -
+/api/config.php 3 -
+/api/.env.production 3 -
+/.env.preprod 2 -
+/app/etc/config.php 3 -
+/graphql/.env 2 -
+/aws/config/s3.json 2 -
+/auth 3 -
+/cd/.env 2 -
+/env.development 2 -
+/app/config/services/aws.php 3 -
+/aws/aws_secret_config.php 3 -
+/app/amplify.yaml 2 -
+/var/task/next.config.js 3 -
+/backend/asdf.php 1 -
+/.env.behat 2 -
+/product/.env 2 -
+/.env_example 2 -
+/staging/config.js 3 -
+/src/config/stripe.ts 2 -
+/staging/phpinfo.php 2 -
+/env_2.txt 2 -
+/wp-config.php 2 -
+/src/config/stripe.js 3 -
+/.debugbar 3 -
+/php-info.php 4 -
+/api/auth/* 2 -
+/lab/.env 2 -
+/api/auth 3 -
+/back/.env 2 -
+/backend/node/config.js 3 -
+/___proxy_subdomain_whm/login 4 -
+/apis/index.js 3 -
+/public_html/assets/js/filter.js 123 -
+/.pypirc 1 -
+/.github/stale.yml 2 -
+/constant.js 3 -
+/deploy/.env 2 -
+/mail/phpinfo.php 2 -
+/server/app.js 3 -
+/api/node/constants.js 3 -
+/.git-secret 2 -
+/app.yaml 2 -
+/actuator 3 -
+/zz-nonexistent-test-8492.html 2 -
+/package-updates/*.cgi 2 -
+/.ruby-version 3 -
+/wp-content/debug.log 2 -
+/wp2/wp-includes/wlwmanifest.xml 5 -
+/constants.js 3 -
+/api/debug.php 3 -
+/.boto 2 -
+/server-status 4 -
+/.gitignore 5 -
+/DOCS.md 2 -
+/.well-known/acme-challenge/ 2 -
+/secrets.yaml 2 -
+/env_utils.py 2 -
+/package-updates/save.cgi 2 -
+/config.ts 2 -
+/kafka/.env 2 -
+/API/config/database.js 3 -
+/public_html/images/vang-dalat.png 35 -
+/ad.php 3 -
+/login 4 -
+/.env.1 3 -
+/BACKEND/.env 2 -
+/config.yaml 2 -
+/webhook-waiting/* 2 -
+/1mjh3cvez1qxm16qgyzndl27nw 1 -
+/app/serverless.yml 2 -
+/login.action 4 -
+/core/.env 2 -
+/wp-json/ 6 -
+/s3.yaml 2 -
+/.env.aws 4 -
+/var/task/package.json 2 -
+/rest/settings 2 -
+/admin/utils.js 3 -
+/security.txt 2 -
+/%2f.env 2 -
+/front/.env 2 -
+/api/node/common.js 3 -
+/sysinfo.cgi 2 -
+/ci/.env 2 -
+/16.php 3 -
+/development/.env 4 -
+/site/.env 2 -
+/api 4 -
+/_profiler/phpinfo 4 -
+/.git-askpass.sh 2 -
+/be/.env 2 -
+/php_info.php 2 -
+/.well-known/stripe/ 2 -
+/jenkins/.env 2 -
+/loaders/* 2 -
+/about 7 -
+/api/register 3 -
+/buildspec.yml 1 -
+/s3.properties 2 -
+/var/task/nuxt.config.js 3 -
+/proc/index.cgi 2 -
+/posts/* 2 -
+/opt/mailcow-dockerized/mailcow.conf 2 -
+/public_html/ 70 http://dwine.id.vn/
+/.env.copy 3 -
+/config/stripe.json 2 -
+/admin/server.js 3 -
+/api/signin 3 -
+/web/constant.js 3 -
+/.eslintrc 3 -
+/Dockerfile 2 -
+/pinfo.php 2 -
+/blog 2 -
+/config.js 6 -
+/chat 2 -
+/.env.yml 2 -
+/.env.json 2 -
+/.vscode/sftp.json 4 -
+/aws.yml 5 -
+/var/task/serverless.yaml 2 -
+/public_html/images/homelogo.png 91 http://dwine.id.vn/
+/blog/robots.txt 1 https://www.dvere-mika.cz//wp-login.php
+/stripe.yaml 2 -
+/cronlab/.env 2 -
+/var/task/amplify.yaml 2 -
+/var/task/next.config.ts 2 -
+/apps/.env 7 -
+/docs/phpinfo.php 2 -
+/.env_prd 2 -
+/env.txt 5 -
+/.env.debug 3 -
+/web/wp-includes/wlwmanifest.xml 5 -
+/opt/.env 4 -
+/app_dev.php 3 -
+/cms/wp-includes/wlwmanifest.xml 5 -
+/infos.php 2 -
+/src/constant.js 3 -
+/software/install-updates.cgi 2 -
+/wp_mail_smtp.ini 2 -
+/i.php 2 -
+/.env.server 2 -
+/webroot/index.php/_environment 2 -
+/static/style/sys_files/index.js 5 -
+/.env.swp 4 -
+/aws/s3/credentials 2 -
+/_phpinfo.php 2 -
+/api/* 2 -
+/config/env.js 3 -
+/config/app/.env 2 -
+/config/environment.rb 2 -
+/public_html/images/junmai.png 129 http://dwine.id.vn/
+/shopify/.env 2 -
+/sito/wp-includes/wlwmanifest.xml 5 -
+/actions/.env 2 -
+/fake-env-backup.txt 2 -
+/staging/config/config.js 3 -
+/public_html/.env 4 -
+/v1/* 2 -
+/email/.env 2 -
+/blog/[year]/[month]/[slug] 2 -
+/backend/config/constants.js 3 -
+/media/.env 2 -
+/aws/metadata 2 -
+/checkout 2 -
+/infophp.php 2 -
+/server.js 3 -
+/beta/phpinfo.php 2 -
+/.nvmrc 3 -
+/.env.bak 7 -
+/app_dev.php/_profiler/phpinfo 3 -
+/config/aws.yml 2 -
+/admin/config/common.js 3 -
+/notifications/* 2 -
+/news/wp-includes/wlwmanifest.xml 5 -
+/app/package.json 2 -
+/home/*/.gitconfig 2 -
+/aws_config.js 2 -
+/profile/* 2 -
+/html/.env 2 -
+/aws/keys.conf 2 -
+/nest/.env 2 -
+/var/task/vercel.json 2 -
+/api/config 3 -
+/s3/.env.bak 2 -
+/dist/.env 2 -
+/.s3cfg 2 -
+/dashboard/.env 2 -
+/.env.back 3 -
+/aws.json 2 -
+/credentials.go 2 -
+/aws/.env 5 -
+/env-template 2 -
+/admin/.env.production 3 -
+/appsettings.json 2 -
+/compose.yaml 2 -
+/rest/logout 2 -
+/server/env.js 3 -
+/app/etc/env.php 3 -
+/laravel5/.env 2 -
+/config.json 11 -
+/.env.local.exported 2 -
+/%2fbackend%2f.env 2 -
+/_react/action/* 2 -
+/.well-known/stripe.txt 3 -
+/awsconfig.json 2 -
+/fe/.env 2 -
+/sbin/.env 2 -
+/create_env.py 2 -
+/hosting/phpinfo.php 2 -
+/api/v2/.env 2 -
+/webhook-test/* 2 -
+/public_html/images/moscato.png 116 http://dwine.id.vn/
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 4 -
+/api/v1/credentials 2 -
+/LOG.md 2 -
+/job/.env 2 -
+/api-node/.env 2 -
+/.env.www 3 -
+/_vti_bin/* 2 -
+/.env.suspected 3 -
+/aws/creds/aws_keys.yml 2 -
+/tmp/phpinfo.php 2 -
+/vendor/.env 2 -
+/webhooks/incoming/stripe.json 2 -
+/exapi/.env 2 -
+/sender/.env 2 -
+/dev_env.tfvars 2 -
+/.python-version 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 193
+171.247.205.89 1332 1332 193142407 20260626193719
+45.88.138.45 389 389 2539107 20260626032909
+125.235.237.64 288 292 3295849 20260627084357
+42.115.164.228 213 417 29647556 20260627053646
+103.156.4.190 172 172 1474880 20260627162620
+113.161.204.74 80 80 1601529 20260627164908
+103.156.4.174 68 68 558126 20260627164048
+42.116.181.131 37 71 9510593 20260627000210
+85.115.209.50 37 73 388718 20260629042104
+125.235.237.244 29 30 284547 20260629073601
+103.4.250.89 22 22 190377 20260626025637
+85.121.127.132 17 18 160077 20260629001633
+141.51.110.129 16 16 144372 20260628182508
+155.2.228.196 12 12 115244 20260628034043
+144.217.135.167 12 12 536644 20260628015310
+113.180.237.244 10 10 41080 20260626182748
+125.235.237.160 10 10 10274 20260627123241
+103.4.250.179 7 7 60743 20260626025423
+15.228.208.28 6 6 71524 20260627210412
+52.14.63.253 6 6 71535 20260627221327
+152.32.252.167 5 5 58219 20260628105109
+42.116.181.89 5 5 38010 20260627074231
+209.38.248.17 4 4 55643 20260626025246
+116.212.188.157 4 14 122280 20260626025337
+103.196.9.139 4 13 121150 20260626025330
+192.9.185.133 0 1 37896 
+213.142.143.146 0 1 37909 
+103.9.79.189 3 14 4287286 20260627201238
+157.245.130.73 2 2 23395 20260628014743
+35.233.88.72 1 1 11760 20260626151322
+45.148.10.120 2 10 121927 20260627091220
+44.221.62.208 2 2 12780 20260626031922
+89.184.202.156 1 1 10066 20260628174341
+100.21.218.158 1 1 6390 20260626025818
+23.27.145.49 1 1 11964 20260627060455
+103.196.9.161 1 1 6365 20260626025322
+54.210.73.60 1 1 10220 20260627093627
+65.21.124.77 2 2 14671 20260626025706
+98.83.151.203 1 1 11964 20260627040809
+101.91.233.238 0 1 37895 
+14.29.167.154 0 1 37898 
+35.247.152.127 1 1 7321 20260626111250
+54.242.101.52 1 1 10285 20260627093627
+2.58.56.61 3 3 146091 20260628010419
+100.53.74.2 2 2 22294 20260626212639
+34.235.171.229 2 2 13745 20260626051027
+44.200.255.42 0 1 37901 
+149.57.180.107 1 1 7345 20260626060639
+54.86.204.93 2 2 23343 20260627173116
+54.209.195.152 2 2 14671 20260626062946
+144.217.135.176 3 22 4798082 20260628015335
+32.197.235.144 2 2 23835 20260626174941
+112.197.8.71 1 1 10108 20260626150709
+3.82.194.181 2 2 21763 20260628031241
+149.28.158.150 0 1 37907 
+43.108.23.114 0 1 37899 
+185.220.100.249 1 1 7355 20260626092436
+223.247.180.24 0 1 37891 
+142.93.59.62 1 1 10220 20260627140910
+185.247.137.2 1 1 12002 20260627065910
+180.100.213.49 0 1 37892 
+15.204.182.106 2 2 20440 20260627102436
+44.222.170.205 2 2 21772 20260628055712
+35.187.249.169 0 1 94 
+117.34.103.4 0 1 37900 
+136.66.24.156 3 3 152184 20260626214257
+3.81.63.192 2 2 21852 20260628030039
+54.88.92.117 1 1 50788 20260626131839
+117.7.115.174 0 1 37903 
+195.96.139.150 1 1 12068 20260627071455
+45.66.35.31 1 1 11801 20260627165111
+54.196.192.204 2 2 13681 20260626113833
+54.196.239.174 0 1 37905 
+35.236.25.141 0 3 282 
+211.175.22.56 0 1 37893 
+125.124.149.101 0 1 37893 
+8.210.89.213 1 1 37895 20260626025933
+167.99.181.249 4 4 55589 20260626025252
+38.175.193.133 0 1 37909 
+152.67.196.163 0 1 37904 
+156.236.76.66 0 1 37905 
+182.43.228.160 0 1 37897 
+209.135.168.165 0 1 37893 
+118.68.26.138 2 2 20505 20260627071622
+103.196.9.121 1 1 6412 20260626025327
+34.244.13.203 1 1 7355 20260626030843
+66.93.208.239 1 1 10129 20260626181710
+87.236.176.196 1 1 11964 20260627060146
+223.240.120.14 0 1 37895 
+66.249.82.10 1 1 10030 20260626160348
+125.235.237.237 2 3 45888 20260626011334
+3.144.208.13 1 1 33610 20260626025221
+43.252.30.72 4 13 121153 20260626025331
+43.134.82.249 0 2 75812 
+113.142.137.27 0 1 37905 
+149.88.93.190 0 1 37893 
+162.216.148.0 4 10 451546 20260628191811
+34.220.248.245 2 2 12755 20260626052035
+54.226.202.165 1 1 33610 20260626025221
+203.109.60.170 4 14 122283 20260626025325
+103.196.9.4 1 1 6390 20260626025329
+85.209.218.58 1 1 10066 20260628174009
+34.220.52.140 1 1 10066 20260629021346
+185.247.137.190 1 1 11942 20260627111440
+34.175.21.15 0 1 94 
+52.38.192.84 2 2 12832 20260626043754
+149.57.180.17 1 1 6390 20260626071944
+74.125.212.33 2 2 20077 20260626160350
+18.237.249.84 2 2 12832 20260626040902
+193.32.162.60 1 1 12255 20260627111510
+14.18.95.192 0 1 37908 
+149.57.180.77 1 1 10285 20260627071802
+103.196.9.98 1 1 6390 20260626025331
+113.142.64.47 0 1 37897 
+91.199.212.132 0 3 282 
+34.176.211.148 0 3 282 
+186.246.54.111 0 1 37915 
+64.89.160.19 3 3 146091 20260628000103
+34.50.37.91 0 1 94 
+172.105.82.111 2 2 23920 20260627120032
+35.86.149.213 1 1 6390 20260626045732
+123.31.54.203 2 2 20505 20260626193654
+87.236.176.150 1 1 11964 20260627104329
+121.11.117.149 0 1 37906 
+172.111.197.134 1 1 11756 20260628121235
+183.56.221.139 0 1 37890 
+43.98.173.173 1 1 11639 20260628103956
+125.124.38.9 0 1 37905 
+108.177.131.225 1 1 10129 20260626180148
+34.63.114.70 0 2 188 
+3.227.245.104 2 2 13745 20260626035804
+23.27.145.16 1 1 11668 20260628060849
+205.169.39.11 1 1 11675 20260629113835 20260629113835 /
+142.93.243.214 1 1 10220 20260627140904
+14.18.95.245 0 1 37907 
+156.227.28.171 0 2 75812 
+146.70.11.64 1 1 7316 20260626025418
+31.14.236.47 1 20 4684400 20260628174039
+175.6.116.228 0 1 37919 
+34.100.253.31 0 1 94 
+62.133.46.30 1 1 7355 20260626025419
+47.250.40.154 0 1 37913 
+34.77.219.71 1 1 11778 20260626151323
+45.148.10.15 3 3 35131 20260628060652
+103.255.237.2 0 51 3823 
+34.202.9.36 1 1 11697 20260628170943
+34.76.117.34 1 1 9996 20260628174033
+140.246.180.208 0 1 37912 
+113.108.8.199 0 1 37905 
+113.160.235.186 1 1 6390 20260626095135
+35.165.215.140 1 1 6390 20260626030024
+154.36.117.24 1 1 11625 20260628004803
+185.233.80.44 0 1 37915 
+213.144.144.226 1 1 0 20260626190811
+185.247.137.98 1 1 11822 20260626162608
+42.112.8.10 1 1 10220 20260626202734
+103.196.9.165 1 1 6390 20260626025327
+49.213.78.31 0 1 193718 
+138.124.103.234 0 1 37894 
+16.145.85.179 2 2 14710 20260626041047
+185.92.210.227 1 1 6390 20260626025230
+34.175.47.170 0 1 94 
+34.244.200.253 1 1 10220 20260627081803
+3.87.162.11 2 2 13797 20260626030202
+114.217.15.115 0 1 37904 
+8.210.30.210 1 1 37910 20260626025814
+34.26.149.137 0 1 94 
+82.25.171.173 1 1 6390 20260626031912
+54.175.69.206 2 2 21998 20260626150401
+103.196.9.188 1 1 6442 20260626025356
+34.40.31.46 0 1 94 
+52.33.3.252 2 2 14802 20260626035822
+35.200.133.24 0 2 188 
+45.148.10.217 2 2 19588 20260626145659
+34.142.198.90 0 1 94 
+34.245.90.173 1 1 10285 20260627065839
+136.66.71.16 3 3 152184 20260626203710
+182.43.87.19 0 1 37898 
+52.35.47.84 0 1 37893 
+167.99.182.39 2 2 67220 20260626025217
+117.80.144.107 0 1 37903 
+44.202.147.41 2 2 13797 20260626070354
+216.36.102.184 1 1 33610 20260626025221
+43.98.162.38 1 1 11704 20260628103955
+134.209.167.83 3 3 146091 20260628021105
+146.190.63.48 4 4 55682 20260626025244
+35.205.135.94 3 3 152184 20260626220750
+14.29.226.41 0 1 37902 
+34.12.239.217 1 1 12009 20260627121011
+34.177.104.157 1 1 7345 20260626103311
+18.237.187.187 2 2 12780 20260626043034
+157.245.36.108 4 4 55581 20260626025250
+103.196.9.47 1 1 6390 20260626025323
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20260626 2407 2805 242045730 92
+20260627 429 449 9249185 44
+20260628 70 114 11291844 26
+20260629 57 94 582337 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 122
+15mn-30mn 5
+1h+ 9
+5mn-15mn 3
+2mn-5mn 3
+30s-2mn 16
+30mn-1h 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/ 1491 15086139 163 147
+/index.php 842 6337152 1 7
+/bootstrap-5.3.8-dist/js/bootstrap.bundle.min.js.map 244 81035084 0 1
+/bootstrap-5.3.8-dist/css/bootstrap.min.css.map 193 109747068 0 0
+/login_ajax.php 90 6002 0 0
+/logout.php 50 43314 0 0
+/ajax_search.php 32 1828 0 2
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 4 91632 0 0
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 4 90640 0 0
+/register_ajax.php 4 361 0 0
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 4 89728 0 4
+/webmail/phpinfo.php 2 26443 0 2
+/application-dev.properties 1 37910 1 1
+/backup/.env 1 37895 1 1
+/wp-json/ 1 12255 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+100-500 636
+1K-2K 140
+44-100 174
+2K-5K 115
+0-44 393
+5K+ 3160
+500-1K 4814
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

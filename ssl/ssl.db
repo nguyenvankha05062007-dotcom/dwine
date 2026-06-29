@@ -1,0 +1,99 @@
+---
+files:
+  certificate:
+    dwine_id_vn_b2837_8f8e1_1790207999_3d8462d568ac73ed370858c702ec4c44:
+      created: '1782417183'
+      domains:
+        - dwine.id.vn
+        - cpanel.dwine.id.vn
+        - cpcalendars.dwine.id.vn
+        - cpcontacts.dwine.id.vn
+        - mail.dwine.id.vn
+        - webdisk.dwine.id.vn
+        - webmail.dwine.id.vn
+        - www.dwine.id.vn
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “dwine.id.vn” 1782417183.0
+      id: dwine_id_vn_b2837_8f8e1_1790207999_3d8462d568ac73ed370858c702ec4c44
+      is_self_signed: 0
+      issuer.commonName: cPanel ECC Domain Validation Secure Server CA 3
+      issuer.organizationName: cPanel, LLC
+      key_algorithm: rsaEncryption
+      modulus: b283721915d2e7e4fb2c9183f6f7e5ea76b40b4bf421278c5228678e3856d10dca1811512c0354f963c1038c0298dd3b9ba93a8fa1c1caba47ddd23ca41584dd50d0c7fdd7ed9fbd7cf9fee01615b2d9b3fb324c32bc1e30fffecc47dfe2b64f5b7f751784ea94884279461102246661702e6e53681eeb84781ef6ba1b4b24b369c7b6aceec9cf4d4531a14e3b107fcb03eaf9ca85619dbf286531c982e39d9b5405bf4196aba4be36ae2eb79b577494d5a3f96786f0421dc168a53ffc8644763ce66909ac37f2abf9e028429af57411acb66afdf55c9fc5018a62df83788fe6869418eb4c1e67663704c81aeb7a68f09b0c42f8979da58d1fc9638763a8f8e1
+      modulus_length: 2048
+      not_after: '1790207999'
+      not_before: '1782345600'
+      serial: c6322d4874809be15f15f6ec6aec8066
+      signature_algorithm: ecdsa-with-SHA256
+      subject.commonName: dwine.id.vn
+      validation_type: dv
+    dwine_id_vn_c92f5_a0171_1813894604_fc9a29a239679c4d94ef280a2bff11de:
+      created: '1782358604'
+      domains:
+        - dwine.id.vn
+        - mail.dwine.id.vn
+        - www.dwine.id.vn
+        - cpanel.dwine.id.vn
+        - webmail.dwine.id.vn
+        - webdisk.dwine.id.vn
+        - cpcontacts.dwine.id.vn
+        - cpcalendars.dwine.id.vn
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “dwine.id.vn”
+      id: dwine_id_vn_c92f5_a0171_1813894604_fc9a29a239679c4d94ef280a2bff11de
+      is_self_signed: 1
+      issuer.commonName: dwine.id.vn
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: c92f5193e96e3fec0dfdc9cc2b2b02d5a8c8b2a67112e92639ec0fe8e19e8786bc02da22fb9f9ef26617ed273e0d23d6b6d9777ddad4130229efead3101b504f5da3932d881778ab5e719b8ebf41686d98b792834f07d272122eda6ba816c8e55e4f0e8ac4f07bc12f717b300a638f0e27d697c33dbe6fe48febcd5ad1f599c14fc41fc27d94ec2f9081adf0dae4087a629a6e0fc01fc425d8e87b946a0450596ee2611f7970a70a28df3cc4914c172e6c2f9bfeb9d20e2e74e66f8cf0df5508748f4fe745bb9cb463d177e74b988c2dee828d439a29fab29d811c55c59e6ecf5a326490ea4146e003543877868334173428a2e5846255dad6fa2f7c880a0171
+      modulus_length: 2048
+      not_after: '1813894604'
+      not_before: '1782358604'
+      serial: 01b3575fb7
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: dwine.id.vn
+      validation_type: ~
+  key:
+    b2837_8f8e1_a97835ad86b10b5af9e8640200e490c9:
+      created: '1782417183'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “dwine.id.vn” 1782417183.0
+      id: b2837_8f8e1_a97835ad86b10b5af9e8640200e490c9
+      key_algorithm: rsaEncryption
+      modulus: b283721915d2e7e4fb2c9183f6f7e5ea76b40b4bf421278c5228678e3856d10dca1811512c0354f963c1038c0298dd3b9ba93a8fa1c1caba47ddd23ca41584dd50d0c7fdd7ed9fbd7cf9fee01615b2d9b3fb324c32bc1e30fffecc47dfe2b64f5b7f751784ea94884279461102246661702e6e53681eeb84781ef6ba1b4b24b369c7b6aceec9cf4d4531a14e3b107fcb03eaf9ca85619dbf286531c982e39d9b5405bf4196aba4be36ae2eb79b577494d5a3f96786f0421dc168a53ffc8644763ce66909ac37f2abf9e028429af57411acb66afdf55c9fc5018a62df83788fe6869418eb4c1e67663704c81aeb7a68f09b0c42f8979da58d1fc9638763a8f8e1
+      modulus_length: 2048
+    c92f5_a0171_28e8261c08d4178eff29c1d63713ce04:
+      created: '1782358604'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “dwine.id.vn”
+      id: c92f5_a0171_28e8261c08d4178eff29c1d63713ce04
+      key_algorithm: rsaEncryption
+      modulus: c92f5193e96e3fec0dfdc9cc2b2b02d5a8c8b2a67112e92639ec0fe8e19e8786bc02da22fb9f9ef26617ed273e0d23d6b6d9777ddad4130229efead3101b504f5da3932d881778ab5e719b8ebf41686d98b792834f07d272122eda6ba816c8e55e4f0e8ac4f07bc12f717b300a638f0e27d697c33dbe6fe48febcd5ad1f599c14fc41fc27d94ec2f9081adf0dae4087a629a6e0fc01fc425d8e87b946a0450596ee2611f7970a70a28df3cc4914c172e6c2f9bfeb9d20e2e74e66f8cf0df5508748f4fe745bb9cb463d177e74b988c2dee828d439a29fab29d811c55c59e6ecf5a326490ea4146e003543877868334173428a2e5846255dad6fa2f7c880a0171
+      modulus_length: 2048
+indexes:
+  certificate:
+    modulus:
+      b283721915d2e7e4fb2c9183f6f7e5ea76b40b4bf421278c5228678e3856d10dca1811512c0354f963c1038c0298dd3b9ba93a8fa1c1caba47ddd23ca41584dd50d0c7fdd7ed9fbd7cf9fee01615b2d9b3fb324c32bc1e30fffecc47dfe2b64f5b7f751784ea94884279461102246661702e6e53681eeb84781ef6ba1b4b24b369c7b6aceec9cf4d4531a14e3b107fcb03eaf9ca85619dbf286531c982e39d9b5405bf4196aba4be36ae2eb79b577494d5a3f96786f0421dc168a53ffc8644763ce66909ac37f2abf9e028429af57411acb66afdf55c9fc5018a62df83788fe6869418eb4c1e67663704c81aeb7a68f09b0c42f8979da58d1fc9638763a8f8e1:
+        dwine_id_vn_b2837_8f8e1_1790207999_3d8462d568ac73ed370858c702ec4c44: ~
+      c92f5193e96e3fec0dfdc9cc2b2b02d5a8c8b2a67112e92639ec0fe8e19e8786bc02da22fb9f9ef26617ed273e0d23d6b6d9777ddad4130229efead3101b504f5da3932d881778ab5e719b8ebf41686d98b792834f07d272122eda6ba816c8e55e4f0e8ac4f07bc12f717b300a638f0e27d697c33dbe6fe48febcd5ad1f599c14fc41fc27d94ec2f9081adf0dae4087a629a6e0fc01fc425d8e87b946a0450596ee2611f7970a70a28df3cc4914c172e6c2f9bfeb9d20e2e74e66f8cf0df5508748f4fe745bb9cb463d177e74b988c2dee828d439a29fab29d811c55c59e6ecf5a326490ea4146e003543877868334173428a2e5846255dad6fa2f7c880a0171:
+        dwine_id_vn_c92f5_a0171_1813894604_fc9a29a239679c4d94ef280a2bff11de: ~
+    subject.commonName:
+      dwine.id.vn:
+        dwine_id_vn_b2837_8f8e1_1790207999_3d8462d568ac73ed370858c702ec4c44: ~
+        dwine_id_vn_c92f5_a0171_1813894604_fc9a29a239679c4d94ef280a2bff11de: ~
+uniques:
+  certificate:
+    friendly_name:
+      Cert for “dwine.id.vn”: dwine_id_vn_c92f5_a0171_1813894604_fc9a29a239679c4d94ef280a2bff11de
+      Cert for “dwine.id.vn” 1782417183.0: dwine_id_vn_b2837_8f8e1_1790207999_3d8462d568ac73ed370858c702ec4c44
+  key:
+    friendly_name:
+      Key for “dwine.id.vn”: c92f5_a0171_28e8261c08d4178eff29c1d63713ce04
+      Key for “dwine.id.vn” 1782417183.0: b2837_8f8e1_a97835ad86b10b5af9e8640200e490c9
+    modulus:ecdsa_curve_name:ecdsa_public:
+      b283721915d2e7e4fb2c9183f6f7e5ea76b40b4bf421278c5228678e3856d10dca1811512c0354f963c1038c0298dd3b9ba93a8fa1c1caba47ddd23ca41584dd50d0c7fdd7ed9fbd7cf9fee01615b2d9b3fb324c32bc1e30fffecc47dfe2b64f5b7f751784ea94884279461102246661702e6e53681eeb84781ef6ba1b4b24b369c7b6aceec9cf4d4531a14e3b107fcb03eaf9ca85619dbf286531c982e39d9b5405bf4196aba4be36ae2eb79b577494d5a3f96786f0421dc168a53ffc8644763ce66909ac37f2abf9e028429af57411acb66afdf55c9fc5018a62df83788fe6869418eb4c1e67663704c81aeb7a68f09b0c42f8979da58d1fc9638763a8f8e1: b2837_8f8e1_a97835ad86b10b5af9e8640200e490c9
+      c92f5193e96e3fec0dfdc9cc2b2b02d5a8c8b2a67112e92639ec0fe8e19e8786bc02da22fb9f9ef26617ed273e0d23d6b6d9777ddad4130229efead3101b504f5da3932d881778ab5e719b8ebf41686d98b792834f07d272122eda6ba816c8e55e4f0e8ac4f07bc12f717b300a638f0e27d697c33dbe6fe48febcd5ad1f599c14fc41fc27d94ec2f9081adf0dae4087a629a6e0fc01fc425d8e87b946a0450596ee2611f7970a70a28df3cc4914c172e6c2f9bfeb9d20e2e74e66f8cf0df5508748f4fe745bb9cb463d177e74b988c2dee828d439a29fab29d811c55c59e6ecf5a326490ea4146e003543877868334173428a2e5846255dad6fa2f7c880a0171: c92f5_a0171_28e8261c08d4178eff29c1d63713ce04
