@@ -11,7 +11,7 @@ if (isset($_GET['page']) && $_GET['page'] === 'login' && $_SERVER['REQUEST_METHO
     
 }
 
-// 1. Lấy trang hiện tại mà người dùng muốn vào (mặc định là 'home' nếu rỗng)
+// 1. Lấy trang hiện tại mà người dùng muốn vào
 $page = $_GET['page'] ?? 'home';
 
 // 2. BỘ LỌC CHẶN (MIDDLEWARE) PHÂN QUYỀN
